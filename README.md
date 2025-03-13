@@ -13,3 +13,10 @@ The parameters are chosen accordingly and explained in the report.
 
 Feel free to choose your own parameters and model your own specific scenarios !! 
 
+Note on Excel File :
+
+demand_node 1/2 = Specify the hourly demand for 1 year at the individual node (MW)
+
+RES_profilesnode1/2 = Specify the normalized irradiance of the coordinated, taken from Renewable Ninja
+
+Storage_Node1/2 = Specify the specification of the storage characteristic : [Technology;	Pmax(MW);	SOCmax(MWh);	charge_eff(%);	discharge_eff(%)]
